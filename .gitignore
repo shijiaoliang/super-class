@@ -18,3 +18,8 @@ Thumbs.db
 # runtime
 runtime/
 
+# vendor
+vendor/github.com
+vendor/golang.org
+vendor/gopkg.in
+
