@@ -1,7 +1,7 @@
 /**
  *******************************************slade********************************************
  * Copyright (c)  slade
- * Created by my-gin.
+ * Created by super-class.
  * User: 605724193@qq.com
  * Date: 2019/08/07
  * Time: 11:18
@@ -16,8 +16,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
 
-	"my-gin/log"
-	"my-gin/util"
+	"super-class/log"
+	"super-class/util"
 )
 
 type AppConfig struct {
